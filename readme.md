@@ -6,7 +6,8 @@
 
 Aplicação para demonstrar a funcionalidade do Spring Boot e, possui uma lista de livros organizada pelo nome do autor.
 
-Existirá uma página para cada livro exibindo a sua lista e um formulário que permitirá o cadastro de novos livros para esse autor.
+Existirá uma página para cada livro exibindo a sua lista e um formulário que permitirá o cadastro de novos livros para
+esse autor.
 
 Sistema de cadastro de livros MVC, utilizando as seguintes tecnologias:
 
