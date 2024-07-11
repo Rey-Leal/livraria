@@ -19,7 +19,8 @@ Sistema de cadastro de livros MVC, utilizando as seguintes tecnologias:
 
 Para rodar a aplicação basta executar a classe LivroApplication e aguardar o Tomcat inicializar.
 
-Acesse o endereço http://localhost:8080/nomeDeAutor.
+Acesse o endereço http://localhost:8080/nomeDeAutor
 
 Com isso será mostrada a tela da aplicação desenvolvida e a lista dos livros cadastrados para este autor.
 Cadastre quantos livros desejar.
+Substitua nomeDeAutor no link pelo nome desejado caso deseje.
